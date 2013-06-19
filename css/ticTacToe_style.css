@@ -6,6 +6,11 @@
 	width: 150px;
 	height: 150px;
 	margin: 0 0 10px 10px;
-	background-color: black;
+	background-color: lightgray;
 	float: left;
+}
+
+.hover_square {
+	background-color: blue;
+	cursor: pointer;
 }
